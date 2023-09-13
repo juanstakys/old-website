@@ -34,6 +34,7 @@ body {
             background-color: #fff;
             padding: 20px;
             margin-bottom: 20px;
+            width: 75%;
         }
         
         @media (min-width: 768px) {
