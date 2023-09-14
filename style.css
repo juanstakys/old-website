@@ -36,6 +36,16 @@ body {
             margin-bottom: 20px;
             width: 75%;
         }
+
+        .contact-list {
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+        }
+
+        .contact-item {
+            margin: 10px;
+        }
         
         @media (min-width: 768px) {
             .container {
