@@ -33,7 +33,8 @@ body {
         .section {
             background-color: #fff;
             padding: 20px;
-            margin: 10px;
+            margin: auto;
+            margin-bottom: 20px;
             width: 75%;
         }
 
